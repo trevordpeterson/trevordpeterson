@@ -208,6 +208,7 @@ header table {
 #experiences {
     width:92vw;
     padding:6vh 4vw;
+    font-weight:bold;
 }
 #experiences h1 {
     padding:5px 0px;
