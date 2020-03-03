@@ -205,15 +205,15 @@ header table {
     border-bottom:4px solid rgb(144, 206, 225);
     width:8%;
 }
-#skills {
+#experiences {
     width:92vw;
     padding:6vh 4vw;
     font-weight:bold;
 }
-#skills h1 {
+#experiences h1 {
     padding:5px 0px;
     border-bottom:4px solid rgb(144, 206, 225);
-    width:12%;
+    width:14%;
 }
 #contact {
     width:92vw;
